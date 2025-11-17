@@ -5,6 +5,7 @@ I'm **Jeovanalopesvalente**, I am a **Technical IT student** passionate about So
 
 **Follow me on my social media:**
 
-![Instagram Badge](https://www.instagram.com/jeovana_rl_valente/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/jeovana_rl_valente/)](https://www.instagram.com/jeovana_rl_valente/)
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ubuntu,git)](https://skillicons.dev)
